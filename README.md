@@ -6,8 +6,8 @@
 
 # Калькулятор валют
 
-**ФИО:** Filipik Uladzislau
-**Номер:** 153551
+**ФИО:** Filipik Uladzislau, Vishneuski Aliaksandr
+**Номер группы:** 153551
 **Вариант:** 2  
 
 ## Описание работы
